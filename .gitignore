@@ -1,0 +1,8 @@
+#for ignore files, simply write file name
+secret.txt
+
+#for ignore folders, foldername/
+
+#for ignore file tyeps, *.filetype
+
+#
