@@ -37,7 +37,10 @@
 #       <=	            Less than or equal	   x <= y
 # 
 
-# Logical operators
-# Identity operators
-# Membership operators
-# Bitwise operators
+# Logical operators:
+    
+# Identity operators:
+
+# Membership operators:
+
+# Bitwise operators:
